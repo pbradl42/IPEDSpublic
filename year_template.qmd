@@ -1,0 +1,49 @@
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(tidyverse)
+library(alleghenyir)
+library(alleghenystyle)
+library(knitr)
+library(here)
+
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE)
+
+readRDS(paste(here(), "../../year_file.RDS", sep="/")) -> file_df
+```
+
+## `r unique(file_df$year)`
+
+```{r}
+for_html_display <- file_df %>%
+#  mutate(data_file = paste("<a href=\"", url, "\">", data_file, "</a>", sep="")) %>%
+  mutate(data_file = paste("<a href=\"", url, "\">", data_file, "</a>", sep="")) %>%
+  mutate(stata_data_file = paste("<a href=\"", staturl, "\">", stata_data_file, "</a>", sep="")) %>%
+  mutate(dictionary = paste("<a href=\"", dict, "\">", "Dictionary", "</a>", sep="")) %>%
+  select(!url)
+```
+
+<table>
+<thead><tr><td> Survey </td><td> Title </td><td> Data file </td><td> Stata File </td><td> Programs </td><td> Dictionary </td><td></thead>
+<tbody>
+```{r results='asis'}
+for(row in c(1:nrow(for_html_display))) {
+  programs <- str_split(for_html_display[row,]$programs, "\\|")
+  cat("<tr><td> ")
+    cat(for_html_display[row,]$survey)
+  cat("</td><td>")
+    cat(for_html_display[row,]$title)
+  cat(" </td><td> ")
+    cat(for_html_display[row,]$data_file)
+  cat(" </td><td> ")
+    cat(for_html_display[row,]$stata_data_file)
+  cat(" </td><td> ")
+    cat(paste(programs[[1]], collapse=", "))
+  cat(" </td><td> ")
+    cat(for_html_display[row,]$dictionary)
+  cat(" </td></tr>")
+}
+```
+</tbody>
+</table>
+
