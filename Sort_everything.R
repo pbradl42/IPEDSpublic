@@ -99,8 +99,8 @@ clean_up_data <- function(the_year) {
   quarto::quarto_render(input=paste(here(), datadir, "IPEDSpublic", "year_template.qmd", sep="/"), output_format="html", output_file="index.html")
   file.rename("index.html", paste(here(), datadir, the_year, "index.html", sep="/"))
 
-  if(dir.exists(paste(here(), "Data", the_year, sep="/"))) {
-   file.rename(paste(here(), "Data", the_year, sep="/"), paste(here(), "Data/IPEDSpublic", the_year, sep="/"))
+  if(dir.exists(paste(here(), the_year, sep="/"))) {
+   file.rename(paste(here(), the_year, sep="/"), paste(here(), the_year, sep="/"))
   }
   return(file_df)
   #lapply(all_files, move_file, the_year)

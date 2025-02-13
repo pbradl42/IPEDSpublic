@@ -1,0 +1,10 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1985,Institutional Characteristics,Institutional characteristics,IC1985,IC1985_STATA,"SPSS, SAS, STATA",Dictionary
+1985,Fall Enrollment,"Gender, attendance status and level of student",EF1985,EF1985_STATA,"SPSS, SAS, STATA",Dictionary
+1985,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level and gender: 1984-85",C1985_CIP,C1985_CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1985,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1984-85",C1985_RE,C1985_RE_STATA,"SPSS, SAS, STATA",Dictionary
+1985,Completions,Response status,C1985_IC,C1985_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1985,Instructional Staff/Salaries,Response status,SAL1985_IC,SAL1985_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1985,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL1985_A,SAL1985_A_STATA,"SPSS, SAS, STATA",Dictionary
+1985,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL1985_B,SAL1985_B_STATA,"SPSS, SAS, STATA",Dictionary
+1985,Finance,Finance,F1985,F1985_STATA,"SPSS, SAS, STATA",Dictionary

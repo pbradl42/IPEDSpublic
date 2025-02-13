@@ -1,0 +1,29 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1998,Institutional Characteristics,"Directory information, response status and derived variables",IC98hdac,IC98hdac_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Institutional Characteristics,"Educational offerings, organization and accreditation",IC98_AB,IC98_AB_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Institutional Characteristics,Admissions and services,IC98_C,IC98_C_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Institutional Characteristics,Student charges,IC98_D,IC98_D_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Institutional Characteristics,"Financial aid, athletic associations, and other information",IC98_F,IC98_F_STATA,"SPSS, SAS, STATA",Dictionary
+1998,12-Month Enrollment,12-month enrollment and instructional activity: 1997-98,IC98_E,IC98_E_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Fall Enrollment,Response status,EF98_hd,EF98_hd_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student: Fall 1998",EF98_ANR,EF98_ANR_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Fall Enrollment,"(Raked Analysis File) Race/ethnicity, gender, attendance status and level of student: Fall 1998",EF98_ARK,EF98_ARK_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Fall Enrollment,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall 1998",EF98_ACP,EF98_ACP_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Fall Enrollment,Residence and migration of first-time freshman: Fall 1998,EF98_C,EF98_C_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Fall Enrollment,Clarifying questions,EF98_D,EF98_D_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Completions,Response status,C9798_HD,C9798_HD_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: 1997-98",C9798_A,C9798_A_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1997-98",C9798_A2DIG,C9798_A2DIG_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Completions,Double majors and awards conferred at branch campuses in foreign countries: 1997-98,C9798_B,C9798_B_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Instructional Staff/Salaries,Response status,SAL98_HD,SAL98_HD_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL98_A,SAL98_A_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL98_B,SAL98_B_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Finance,"Public 4-year and 2-year (Revenues, expenditures, financial aid, assets, endowments) : Fiscal year 1998",F9798_F1,F9798_F1_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Finance,Public 4-year and 2-year - Clarifying Question 5 on subentities: Fiscal year 1998,F9798_C5,F9798_C5_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Finance,"Private not-for-profit 4-year and 2-year (Revenues, expenditures, net assets and statement of financial position) : Fiscal year 1998",F9798_F2,F9798_F2_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Finance,"Private for-profit 4-year and 2-year (Revenues, expenditures, net assets and statement of financial position) : Fiscal year 1998",F9798_F3,F9798_F3_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Finance,Consolidated (CN) form - less-than-2-year institutions : Fiscal year 1998,F9798_CN,F9798_CN_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Graduation Rates,Graduation rate data for cohort year 1995 (less-than-2-year institutions),GR1998_L2,GR1998_L2_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Graduation Rates,Graduation rate data  for cohort year 1992  (4-year) and cohort year 1995 (2-year and less-than-2-year) institutions,GR1998,GR1998_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Graduation Rates,"Graduation rate data  by sport for full-time, first-time degree/certificate-seeking students receiving athletically-related student aid for cohort year 1992 (4-year) and cohort year 1995 (2-year)  institutions",GR1998ATH,GR1998ATH_STATA,"SPSS, SAS, STATA",Dictionary
+1998,Graduation Rates,Number of full-time undergraduate degree/certificate-seeking students receiving athletically-related student aid in 1997-98 (4-year and 2-year institutions),GR1998_ATH_AID,GR1998_ATH_AID_STATA,"SPSS, SAS, STATA",Dictionary

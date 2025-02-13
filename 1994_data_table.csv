@@ -1,0 +1,27 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1994,Institutional Characteristics,"Directory information, educational offerings, organization and accreditation",IC1994_A,IC1994_A_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Institutional Characteristics,"Admissions, services, student charges, 12-month enrollment,  financial aid and other information",IC1994_B,IC1994_B_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Fall Enrollment,Response status,EF1994_IC,EF1994_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student
+Racial/ethnic data (not raked) by level of student",EF1994_ANR,EF1994_ANR_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Fall Enrollment,"Major field of study, race/ethnicity, gender, attendance status, and level of student",EF1994_ACP,EF1994_ACP_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Fall Enrollment,"Raked analysis file - Race/ethnicity, gender, attendance status, and level of student",EF1994_ARK,EF1994_ARK_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Fall Enrollment,Residence and migration of first-time freshmen,EF1994_C,EF1994_C_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Fall Enrollment,Clarifying questions,EF1994_D,EF1994_D_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Completions,Response status,C1994_IC,C1994_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level and gender: 1993-94",C1994_CIP,C1994_CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1993-94",C1994_RE,C1994_RE_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL1994_A,SAL1994_A_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL1994_B,SAL1994_B_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Response status,F1994_IC,F1994_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Current funds revenues by source,F1994_A,F1994_A_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Current funds expenditures by function,F1994_B,F1994_B_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Clarifying questions regarding total E and G expenditures and revenues,F1994_C,F1994_C_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Utilitiy expenditures,F1994_D,F1994_D_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Scholarship and fellowship expenditures by source,F1994_E,F1994_E_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Expenditures for acquisitions of library materials,F1994_F,F1994_F_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Indebtedness on physical plant,F1994_G,F1994_G_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Details on endowment assets,F1994_H,F1994_H_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Selected fund balances,F1994_I,F1994_I_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Hospital revenues,F1994_J,F1994_J_STATA,"SPSS, SAS, STATA",Dictionary
+1994,Finance,Physical plant assets,F1994_K,F1994_K_STATA,"SPSS, SAS, STATA",Dictionary

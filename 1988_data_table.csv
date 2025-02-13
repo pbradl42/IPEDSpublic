@@ -1,0 +1,11 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1988,Institutional Characteristics,"Directory information, educational offerings, organization and accreditation, undergraduate and graduate tuition, and admissions",IC1988_A,IC1988_A_STATA,"SPSS, SAS, STATA",Dictionary
+1988,Institutional Characteristics,"Services, student charges by program, and first-professional tuition",IC1988_B,IC1988_B_STATA,"SPSS, SAS, STATA",Dictionary
+1988,Fall Enrollment,Response status information - enrollment by race/ethnicity,EF1988_IC,EF1988_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1988,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student",EF1988_A,EF1988_A_STATA,"SPSS, SAS, STATA",Dictionary
+1988,Fall Enrollment,Response status  - residence and migration,RES1988_IC,RES1988_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1988,Fall Enrollment,Residence and migration of first-time freshmen,EF1988_C,EF1988_C_STATA,"SPSS, SAS, STATA",Dictionary
+1988,Completions,Response status,C1988_IC,C1988_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1988,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level and gender: 1987-88",C1988_CIP,C1988_CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1988,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level and gender: 1987-88",C1988_A2DIG,C1988_A2DIG_STATA,"SPSS, SAS, STATA",Dictionary
+1988,Finance,Finance,F1988,F1988_STATA,"SPSS, SAS, STATA",Dictionary

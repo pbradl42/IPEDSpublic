@@ -1,0 +1,32 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1995,Institutional Characteristics,"Directory information, educational offerings, organization and accreditation and admissions",ic9596_A,ic9596_A_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Institutional Characteristics,"Student services, student charges, 12-month enrollment, financial aid and other information",ic9596_B,ic9596_B_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Fall Enrollment,Response status,EF95_IC,EF95_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student",EF95_ANR,EF95_ANR_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Fall Enrollment,"Raked Analysis File - Race/ethnicity, gender, attendance status, and level of student",EF95_ARK,EF95_ARK_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Fall Enrollment,"Age category, gender, attendance status, and level of student",EF95_B,EF95_B_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Fall Enrollment,Clarifying questions,EF95_D,EF95_D_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Completions,Response status,C9495_IC,C9495_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: 1994-95",C9495_A,C9495_A_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1994-95",C9495_A2DIG,C9495_A2DIG_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Completions,Double majors and awards conferred at branch campuses in foreign countries: 1994-95,C9495_B,C9495_B_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Instructional Staff/Salaries,Response status,SAL95_IC,SAL95_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL95_a_1,SAL95_a_1_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL95_B,SAL95_B_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Fall Staff,Response status,s95_ic,s95_ic_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Fall Staff,"Full- and part-time staff by race/ethnicity, gender, and primary occupational activity (4-year and 2-year institutions)",S95_S,S95_S_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Fall Staff,Services contracted or donated by primary occupational activity,s95_e,s95_e_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Fall Staff,Full- and part-time staff  by  gender  and primary occupational activity (Less-than-2-year institutions),S95_CN,S95_CN_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Response status,F9495_IC,F9495_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Current funds revenues by source,F9495_A,F9495_A_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Current funds expenditures by function,F9495_B,F9495_B_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Clarifying questions regarding total E and G expenditures and revenues,F9495_C,F9495_C_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Clarifying questions regarding total E and G expenditures and revenues list of subentities,F9495_C5,F9495_C5_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Utitilty expenditures,F9495_D,F9495_D_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Scholarship and fellowship expenditures by source,F9495_E,F9495_E_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Expenditures for acquisitions of library materials,F9495_F,F9495_F_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Indebtedness on physical plant,F9495_G,F9495_G_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Details on endowment assets,F9495_H,F9495_H_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Selected fund balances,F9495_I,F9495_I_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Hospital revenues,F9495_J,F9495_J_STATA,"SPSS, SAS, STATA",Dictionary
+1995,Finance,Physical plant assets,F9495_K,F9495_K_STATA,"SPSS, SAS, STATA",Dictionary

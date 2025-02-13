@@ -1,0 +1,16 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1990,Institutional Characteristics,"Directory information, response status and derived variables",IC90HD,IC90HD_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Institutional Characteristics,"Educational offerings, organization, accreditation, admission requirements, and selected services",IC90ABCE,IC90ABCE_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Institutional Characteristics,Student charges and program offerings,IC90D,IC90D_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Fall Enrollment,Fall enrollment: Response status information of institution,EF90_HD,EF90_HD_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Fall Enrollment,"Fall enrollments (Raked Analysis File)  by race-ethnicity, sex, attendance status, and level of student",EF90_A,EF90_A_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Completions,Response status,C8990HD,C8990HD_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1989-90",C8990RE,C8990RE_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level and gender: 1989-90",C8990CIP,C8990CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Instructional Staff/Salaries,Response status,SAL90_HD,SAL90_HD_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL90_A,SAL90_A_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL90_B,SAL90_B_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Finance,Response status,F8990_HD,F8990_HD_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Finance,Current funds revenues by source,F8990_A,F8990_A_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Finance,Current funds expenditures by function,F8990_B,F8990_B_STATA,"SPSS, SAS, STATA",Dictionary
+1990,Finance,Scholarship and fellowship expenditures by source,F8990_E,F8990_E_STATA,"SPSS, SAS, STATA",Dictionary

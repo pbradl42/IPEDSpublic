@@ -1,0 +1,23 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1992,Institutional Characteristics,"Directory information, educational offerings, organization and accreditation",IC1992_A,IC1992_A_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Institutional Characteristics,"Admissions, services, student charges, financial aid and other information",IC1992_B,IC1992_B_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Fall Enrollment,Response status,EF1992_IC,EF1992_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student",EF1992_A,EF1992_A_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Fall Enrollment,Residence and migration of first-time freshmen,EF1992_C,EF1992_C_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Completions,Response status,C1992_IC,C1992_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level and gender: 1991-92",C1992_CIP,C1992_CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1991-92",C1992_RE,C1992_RE_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL1992_A,SAL1992_A_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL1992_B,SAL1992_B_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Response status,F1992_IC,F1992_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Current funds revenues by source,F1992_A,F1992_A_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Current funds expenditures and transfers,F1992_B,F1992_B_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Clarifying questions regarding total E and G expenditures and revenues,F1992_C,F1992_C_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Utility expenditures,F1992_D,F1992_D_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,"Scholarship and fellowship expenditures, by source",F1992_E,F1992_E_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Expenditures for acquisitions of library materials,F1992_F,F1992_F_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Indebtedness on physical plant,F1992_G,F1992_G_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Details on endowment assets,F1992_H,F1992_H_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Changes in fund balances,F1992_I,F1992_I_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Hospital revenues,F1992_J,F1992_J_STATA,"SPSS, SAS, STATA",Dictionary
+1992,Finance,Physical plant assets,F1992_K,F1992_K_STATA,"SPSS, SAS, STATA",Dictionary

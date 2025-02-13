@@ -1,0 +1,40 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+2012,Institutional Characteristics,Directory information,HD2012,HD2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Institutional Characteristics,"Educational offerings, organization, admissions, services and athletic associations  (revised August 2014)",IC2012,IC2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Institutional Characteristics,Student charges for academic year programs,IC2012_AY,IC2012_AY_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Institutional Characteristics,Student charges by program (vocational programs),IC2012_PY,IC2012_PY_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Institutional Characteristics,Response status for all survey components (revised August 2014),FLAGS2012,FLAGS2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,12-Month Enrollment,12-month unduplicated headcount: 2011-12  (revised August 2014),EFFY2012,EFFY2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,12-Month Enrollment,12-month instructional activity: 2011-12  (revised August 2014),EFIA2012,EFIA2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Admissions and Test Scores,"Educational offerings, organization, applications, admissions, enrollees, test scores, services and athletic associations  (revised August 2014)",IC2012,IC2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student: Fall 2012 (revised December 2014)",EF2012A,EF2012A_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Enrollment,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall 2012 (revised December 2014)",EF2012CP,EF2012CP_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Enrollment,"Age category, gender, attendance status, and level of student: Fall 2012 (revised December 2014)",EF2012B,EF2012B_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Enrollment,Residence and migration of first-time freshman: Fall 2012 (revised December 2014),EF2012C,EF2012C_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Enrollment,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2012 (revised December 2014)",EF2012D,EF2012D_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Enrollment,Distance education status and level of student: Fall 2012 (revised December 2014),EF2012A_DIST,EF2012A_DIST_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Enrollment,Response status for all survey components(revised December 2014),FLAGS2012,FLAGS2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender:July 1, 2011 to June 30, 2012  (revised August 2014)",C2012_A,C2012_A_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Completions,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2011 to June 30, 2012  (revised August 2014)",C2012_B,C2012_B_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Completions,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2011 to June 30, 2012  (revised August 2014)",C2012_C,C2012_C_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Completions,Response status for all survey components (revised August 2014),FLAGS2012,FLAGS2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Instructional Staff/Salaries,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2012-13 (revised December 2014)",SAL2012_IS,SAL2012_IS_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Instructional Staff/Salaries,"Number and salary outlays for full-time nonmedical noninstructional staff, by occupation: Academic year 2012-13 (revised December 2014)",SAL2012_NIS,SAL2012_NIS_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Instructional Staff/Salaries,Response status for all survey components (revised December 2014),FLAGS2012,FLAGS2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Staff,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2012 (revised December 2014)",S2012_OC,S2012_OC_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Staff,"Full-time instructional staff, by  faculty and tenure status, and academic rank  (Degree-granting institutions): Fall 2012 (revised December 2014)",S2012_SIS,S2012_SIS_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Staff,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2012 (revised December 2014)",S2012_IS,S2012_IS_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Staff,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2012 (revised December 2014)",S2012_NH,S2012_NH_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Fall Staff,Response status for all survey components (revised December 2014),FLAGS2012,FLAGS2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Employees by Assigned Position,"Number of staff by occupational category, faculty and tenure status:  Fall 2012(revised December 2014)",EAP2012,EAP2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Employees by Assigned Position,Response status for all survey components (revised December 2014),FLAGS2012,FLAGS2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Finance,Public institutions - GASB 34/35: Fiscal year 2012 (revised December 2014),F1112_F1A,F1112_F1A_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Finance,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2012 (revised December 2014),F1112_F2,F1112_F2_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Finance,Private for-profit institutions: Fiscal year 2012 (revised December 2014),F1112_F3,F1112_F3_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Finance,Response status for all survey components (revised December 2014),FLAGS2012,FLAGS2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Student Financial Aid and Net Price,Student financial aid and net price: 2011-12 (revised June 2014),SFA1112,SFA1112_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Student Financial Aid and Net Price,Response status for all survey components (revised August 2014),FLAGS2012,FLAGS2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Graduation Rates,"Graduation rate data, 150% of normal time to complete - cohort year 2006 (4-year) and cohort year 2009 (2-year) institutions(revised December 2014)",GR2012,GR2012_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Graduation Rates,"Graduation rate data, 150% of normal time to complete - cohort year 2009 (less-than-2-year institutions) (revised December 2014)",GR2012_L2,GR2012_L2_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Graduation Rates,"Graduation rate data, 200% of normal time to complete - cohort year 2004  (4-year) and cohort year 2008 (less-than-4-year)  institutions(revised December 2014)",GR200_12,GR200_12_STATA,"SPSS, SAS, STATA",Dictionary
+2012,Graduation Rates,Response status for all survey components(revised December 2014),FLAGS2012,FLAGS2012_STATA,"SPSS, SAS, STATA",Dictionary

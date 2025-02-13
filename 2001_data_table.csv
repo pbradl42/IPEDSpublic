@@ -1,0 +1,29 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+2001,Institutional Characteristics,"Directory information, response status for all surveys, and derived variables",FA2001HD,FA2001HD_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Institutional Characteristics,"Educational offerings,organization, accreditation, admissions, services and athletic associations",IC2001,IC2001_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Institutional Characteristics,Student charges for academic year programs,IC2001_AY,IC2001_AY_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Institutional Characteristics,Student charges by program (vocational programs),IC2001_PY,IC2001_PY_STATA,"SPSS, SAS, STATA",Dictionary
+2001,12-Month Enrollment,12-month unduplicated enrollment: 2000-01,EF2001D1,EF2001D1_STATA,"SPSS, SAS, STATA",Dictionary
+2001,12-Month Enrollment,12-month instructional activity: 2000-01,EF2001D2,EF2001D2_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Admissions and Test Scores,"Educational offerings, organization, accreditation, applications, admissions, enrollees, test scores, services and athletic associations",IC2001,IC2001_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student: Fall 2001",EF2001A,EF2001A_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Fall Enrollment,"Age category, gender, attendance status, and level of student: Fall 2001",EF2001B,EF2001B_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Fall Enrollment,Residence and migration of first-time freshman: Fall 2001,EF2001C,EF2001C_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Fall Enrollment,Total entering class: Fall 2001,EF2001E,EF2001E_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: 2000-01",C2001_A,C2001_A_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 2000-01",c2001_a2dig,c2001_a2dig_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Instructional Staff/Salaries,"Salaries of full-time instructional faculty,  by contract length, gender, and academic rank - academic year 2001-02",SAL2001_A_S,SAL2001_A_S_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Instructional Staff/Salaries,"Fringe benefits of full-time instructional faculty, by contract length - academic year 2001-02",SAL2001_B_S,SAL2001_B_S_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Fall Staff,"Employees by primary occupation, race/ethnicity, and gender (Degree-granting institutions) - fall 2001",S2001_ABD,S2001_ABD_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Fall Staff,"Full-time faculty, by tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions) - fall 2001",S2001_F,S2001_F_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Fall Staff,"New hires by primary occupation, race/ethnicity, and gender (Degree-granting institutions) - fall 2001",S2001_G,S2001_G_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Fall Staff,"Employees by primary occupation, race/ethnicity, and gender (Nondegree-granting institutions)  - fall 2001",S2001_CN,S2001_CN_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Employees by Assigned Position,"Employees by faculty status, primary function/occupational activity - fall 2001",EAP2001,EAP2001_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Finance,"Public institutions (GASB), fiscal year 2001",F0001_F1,F0001_F1_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Finance,"Private not-for-profit institutions or public institutions using FASB, fiscal year 2001",F0001_F2,F0001_F2_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Finance,"Private for-profit institutions, fiscal year 2001",F0001_F3,F0001_F3_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Student Financial Aid and Net Price,Student financial aid: Academic year 2000-01,SFA0001S,SFA0001S_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Graduation Rates,Graduation rate data Â for cohort year 1995 (4-year) and cohort year 1998 (2-year and less-than-2-year) institutions,GR2001,GR2001_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Graduation Rates,Graduation rate data for cohort year 1998 (less-than-2-year institutions),GR2001_L2,GR2001_L2_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Graduation Rates,"Graduation rate data Â by sport for full-time, first-time degree/certificate-seeking students receiving athletically-related student aid for cohort year 1995 (4-year) and cohort year 1998 (2-year) Â institutions",GR2001ATH,GR2001ATH_STATA,"SPSS, SAS, STATA",Dictionary
+2001,Graduation Rates,Number of full-time undergraduate degree/certificate-seeking students receiving athletically-related student aid in 2000-01 (4-year and 2-year institutions),GR2001_ATH_AID,GR2001_ATH_AID_STATA,"SPSS, SAS, STATA",Dictionary

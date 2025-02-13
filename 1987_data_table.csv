@@ -1,0 +1,19 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1987,Institutional Characteristics,"Directory information, educational offerings, organization and accreditation",IC1987_A,IC1987_A_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Institutional Characteristics,"Admissions, services, student charges, financial aid and other information",IC1987_B,IC1987_B_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Fall Enrollment,Response status,EF1987_IC,EF1987_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Fall Enrollment,"Gender, attendance status, and level of student",EF1987_A,EF1987_A_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Fall Enrollment,"Age category, gender, attendance status, and level of student",EF1987_B,EF1987_B_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Fall Enrollment,Clarifying questions,EF1987_D,EF1987_D_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Completions,Response status,C1987_IC,C1987_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level and gender: 1986-87",C1987_CIP,C1987_CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1986-87",C1987_RE,C1987_RE_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Instructional Staff/Salaries,Response status,SAL1987_IC,SAL1987_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL1987_A,SAL1987_A_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL1987_B,SAL1987_B_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Fall Staff,Response status,S1987_IC,S1987_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Fall Staff,Fall staff,S1987,S1987_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Finance,Current funds revenues by source,F1987_A,F1987_A_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Finance,Current funds expenditures by function,F1987_B,F1987_B_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Finance,Scholarship and fellowship expenditures by source,F1987_E,F1987_E_STATA,"SPSS, SAS, STATA",Dictionary
+1987,Finance,Response status,F1987_IC,F1987_IC_STATA,"SPSS, SAS, STATA",Dictionary

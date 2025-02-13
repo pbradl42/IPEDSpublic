@@ -1,0 +1,39 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+2010,Institutional Characteristics,Directory information,HD2010,HD2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Institutional Characteristics,"Educational offerings, organization, admissions, services and athletic associations  (revised April 2012)",IC2010,IC2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Institutional Characteristics,Student charges for academic year programs  (revised April 2012),IC2010_AY,IC2010_AY_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Institutional Characteristics,Student charges by program (vocational programs)  (revised April 2012),IC2010_PY,IC2010_PY_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Institutional Characteristics,Response status for all survey components  (revised April 2012),FLAGS2010,FLAGS2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,12-Month Enrollment,12-month unduplicated headcount: 2009-10  (revised April 2012),EFFY2010,EFFY2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,12-Month Enrollment,12-month instructional activity: 2009-10  (revised April 2012),EFIA2010,EFIA2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Admissions and Test Scores,"Educational offerings, organization, applications, admissions, enrollees, test scores, services and athletic associations  (revised April 2012)",IC2010,IC2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student: Fall 2010  (revised January 2013)",EF2010A,EF2010A_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Enrollment,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall 2010  (revised January 2013)",EF2010CP,EF2010CP_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Enrollment,"Age category, gender, attendance status, and level of student: Fall 2010  (revised January 2013)",EF2010B,EF2010B_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Enrollment,Residence and migration of first-time freshman: Fall 2010  (revised January 2013),EF2010C,EF2010C_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Enrollment,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2010  (revised January 2013)",EF2010D,EF2010D_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Enrollment,Response status for all survey components (revised January 2013),FLAGS2010,FLAGS2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2009 to June 30, 2010  (revised April 2012)",C2010_A,C2010_A_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Completions,Response status for all survey components  (revised April 2012),FLAGS2010,FLAGS2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Instructional Staff/Salaries,"Salaries of full-time instructional staff, by contract length, gender, and academic rank: Academic year 2010-11  (revised January 2013)",SAL2010_A,SAL2010_A_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Instructional Staff/Salaries,"Fringe benefits of full-time instructional staff, by contract length: Academic year 2010-11  (revised January 2013)",SAL2010_B,SAL2010_B_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Instructional Staff/Salaries,"Faculty status of full-time instructional staff in 4-year institutions, by contract length, gender, and academic rank:  Academic year 2010-11 (revised January 2013)",SAL2010_FACULTY,SAL2010_FACULTY_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Instructional Staff/Salaries,"Number of full-time instructional faculty with less than 9-month contracts, by gender and academic rank: Academic year 2010-11  (revised January 2013)",SAL2010_A_LT9,SAL2010_A_LT9_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Instructional Staff/Salaries,Response status for all survey components,FLAGS2010,FLAGS2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Staff,"Employees by primary occupation, salary categories, race/ethnicity, and gender (Degree-granting institutions with 15 or more full-time employees): Fall 2010  (revised January 2013)",S2010_ABD,S2010_ABD_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Staff,"Full-time instruction/research/public service staff, by faculty status, academic rank, race/ethnicity, and gender (Degree-granting institutions with 15 or more full-time employees): Fall 2010  (revised January 2013)",S2010_F,S2010_F_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Staff,"New hires by primary occupation, race/ethnicity, and gender (Degree-granting institutions with 15 or more full-time employees): Fall 2010  (revised January 2013)",S2010_G,S2010_G_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Staff,"Employees by primary occupation, race/ethnicity, and gender (Degree-granting institutions with less than 15 full-time employees and all nondegree-granting institutions): Fall 2010  (revised January 2013)",S2010_CN,S2010_CN_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Fall Staff,Response status for all survey components (revised January 2013),FLAGS2010,FLAGS2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Employees by Assigned Position,"Employees by faculty status, primary function/occupational activity: Fall 2010  (revised January 2013)",EAP2010,EAP2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Employees by Assigned Position,Response status for all survey components (revised January 2013),FLAGS2010,FLAGS2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Finance,Public institutions - GASB 34/35: Fiscal year 2010  (revised January 2013),F0910_F1A,F0910_F1A_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Finance,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2010  (revised January 2013),F0910_F2,F0910_F2_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Finance,Private for-profit institutions: Fiscal year 2010  (revised January 2013),F0910_F3,F0910_F3_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Finance,Response status for all survey components (revised January 2013),FLAGS2010,FLAGS2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Student Financial Aid and Net Price,Student financial aid and net price: 2009-10  (revised April 2012),SFA0910,SFA0910_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Student Financial Aid and Net Price,Response status for all survey components (revised April 2012),FLAGS2010,FLAGS2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Graduation Rates,"Graduation rate data, 150% of normal time to complete - cohort year 2004 (4-year) and cohort year 2007 (2-year) institutions  (revised January 2013)",GR2010,GR2010_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Graduation Rates,"Graduation rate data, 150% of normal time to complete - cohort year 2007 (less-than-2-year institutions)   (revised January 2013)",GR2010_L2,GR2010_L2_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Graduation Rates,"Graduation rate data, 200% of normal time to complete - cohort year 2002  (4-year) and cohort year 2006 (less-than-4-year)  institutions(revised January 2013)",GR200_10,GR200_10_STATA,"SPSS, SAS, STATA",Dictionary
+2010,Graduation Rates,Response status for all survey components (revised January 2013),FLAGS2010,FLAGS2010_STATA,"SPSS, SAS, STATA",Dictionary

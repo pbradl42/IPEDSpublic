@@ -1,0 +1,31 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1999,Institutional Characteristics,"Directory information, response status and derived variables",IC99_HD,IC99_HD_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Institutional Characteristics,"Educational offerings,organization, accreditation, admissions, services and athletic associations",IC99ABCF,IC99ABCF_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Institutional Characteristics,"Price of attendance, academic year programs",IP1999AY,IP1999AY_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Institutional Characteristics,Price of attendance by program (vocational programs),IP1999PY,IP1999PY_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Institutional Characteristics,"Accrediting agencies recognized by the Secretary, U.S. Department of Education",IC99_ACTOT,IC99_ACTOT_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Institutional Characteristics,"Student charges - Room and board, and average tuition for undergraduates, graduate and first-professional programs.",IC99_D,IC99_D_STATA,"SPSS, SAS, STATA",Dictionary
+1999,12-Month Enrollment,12-month enrollment and instructional activity: 1998-99,IC99_E,IC99_E_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student: Fall 1999",EF99_ANR,EF99_ANR_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Fall Enrollment,"Age category, gender, attendance status, and level of student: Fall 1999",EF99_B,EF99_B_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Fall Enrollment,Clarifying questions on Fall enrollment,EF99_D,EF99_D_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: 1998-99",C9899_A,C9899_A_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Completions,Double majors and awards conferred at branch campuses in foreign countries: 1998-99,C9899_B,C9899_B_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL1999_A,SAL1999_A_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL1999_B,SAL1999_B_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Fall Staff,"Employees by primary occupation, salary categories, race/ethnicity, and gender (4-year and 2-year institutions) - fall 199",S1999_ABD,S1999_ABD_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Fall Staff,"Full-time faculty, by tenure status, academic rank, race/ethnicity, and gender (4-year and 2-year instiutions): fall 1999",S1999_F,S1999_F_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Fall Staff,"New hires by primary occupation, race/ethnicity, and gender (4-year and 2-year instiutions) - fall 1999",S1999_G,S1999_G_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Fall Staff,Full- and part-time staff by gender and primary occupational activity (Less-than-2-year institutions) - fall 1999,S99_CN,S99_CN_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Fall Staff,Contracted or donated services by primary occupational activity - fall 1999,S99_E,S99_E_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Finance,"Public 4-year and 2-year (Revenues, expenditures financial aid, assets, endowments) : Fiscal year 1999",F9899_F1,F9899_F1_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Finance,Public 4-year and 2-year - Clarifying Question 5 on subentities: Fiscal year 1999,F9899_C5,F9899_C5_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Finance,"Private not-for-profit 4-year and 2-year (Revenues, expenditures, net assets, and statement of financial position) : Fiscal year 1999",F9899_F2,F9899_F2_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Finance,"Private for-profit 4-year and 2-year (Revenues, expenditures, net assets, and statement of financial position) : Fiscal year 1999",F9899_F3,F9899_F3_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Finance,Consolidated (CN) form - less-than-2-year institutions : Fiscal year 1999,F9899_CN,F9899_CN_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Student Financial Aid and Net Price,Student financial aid (student counts): Academic year 1998-99,Pub_studentCount,Pub_studentCount_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Student Financial Aid and Net Price,Student financial aid  (financial aid): Academic year 1998-99,Pub_FinancialAid,Pub_FinancialAid_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Graduation Rates,Graduation rate data Â for cohort year 1993 (4-year) and cohort year 1996 (2-year and less-than-2-year) Â institutions,GR1999,GR1999_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Graduation Rates,Graduation rate data for cohort year 1996 (less-than-2-year institutions),GR1999_L2,GR1999_L2_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Graduation Rates,"Graduation rate data Â by sport for full-time, first-time degree/certificate-seeking students receiving athletically-related student aid for cohort year 1993 (4-year) and cohort year 1996 (2-year) Â institutions",GR1999ATH,GR1999ATH_STATA,"SPSS, SAS, STATA",Dictionary
+1999,Graduation Rates,Number of full-time undergraduate degree/certificate-seeking students receiving athletically-related student aid in 1998-99 (4-year and 2-year institutions),GR1999_ATH_AID,GR1999_ATH_AID_STATA,"SPSS, SAS, STATA",Dictionary

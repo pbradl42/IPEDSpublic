@@ -1,0 +1,43 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+2006,Institutional Characteristics,Directory infomation,HD2006,HD2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Institutional Characteristics,"Educational offerings,organization, admissions, services and athletic associations",IC2006,IC2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Institutional Characteristics,Student charges for academic year programs,IC2006_AY,IC2006_AY_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Institutional Characteristics,Student charges by program (vocational programs),IC2006_PY,IC2006_PY_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Institutional Characteristics,Insitutions's mission statement,IC2006Mission,IC2006Mission_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Institutional Characteristics,Response status for all survey components(revised May 2018),FLAGS2006,FLAGS2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,12-Month Enrollment,12-month unduplicated headcount: 2005-06(revised May 2018),EFFY2006,EFFY2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,12-Month Enrollment,12-month instructional activity: 2005-06(revised May 2018),EFIA2006,EFIA2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Admissions and Test Scores,"Educational offerings, organization, applications, admissions, enrollees, test scores, services and athletic associations",IC2006,IC2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student: Fall 2006(revised May 2018)",EF2006A,EF2006A_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Enrollment,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall 2006(revised May 2018)",EF2006CP,EF2006CP_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Enrollment,"Age category, gender, attendance status, and level of student: Fall 2006(revised May 2018)",EF2006B,EF2006B_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Enrollment,Residence and migration of first-time freshman: Fall 2006(revised May 2018),EF2006C,EF2006C_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Enrollment,Total entering class and retention rates: Fall 2006(revised May 2018),EF2006D,EF2006D_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Enrollment,Response status for all survey components(revised May 2018),FLAGS2006,FLAGS2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: 2005-06(revised May 2018)",C2006_A,C2006_A_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Completions,Response status for all survey components(revised May 2018),FLAGS2006,FLAGS2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Instructional Staff/Salaries,"Salaries of full-time instructional faculty, by contract length, gender, and academic rank: Academic year 2006-07(revised May 2018)",SAL2006_A,SAL2006_A_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Instructional Staff/Salaries,"Fringe benefits of full-time instructional faculty, by contract length: Academic year 2006-07(revised May 2018)",SAL2006_B,SAL2006_B_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Instructional Staff/Salaries,"Tenure status of full-time instructional faculty in 4-year institutions, by contract length, gender, and academic rank:  Academic year 2006-07(revised May 2018)",SAL2006_FACULTY,SAL2006_FACULTY_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Instructional Staff/Salaries,"Number of full-time instructional faculty with less than 9-month contracts, by gender and academic rank: Academic year 2006-07(revised May 2018)",SAL2006_A_LT9,SAL2006_A_LT9_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Instructional Staff/Salaries,Response status for all survey components(revised May 2018),FLAGS2006,FLAGS2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Staff,"Employees by primary occupation, salary categories, race/ethnicity, and gender (Degree-granting institutions with 15 or more full-time employees): Fall 2006(revised May 2018)",S2006_ABD,S2006_ABD_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Staff,"Full-time instruction/research/public service staff, by tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions with 15 or more full-time employees): Fall 2006(revised May 2018)",S2006_F,S2006_F_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Staff,"New hires by primary occupation, race/ethnicity, and gender (Degree-granting institutions): Fall 2006(revised May 2018)",S2006_G,S2006_G_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Staff,"Employees by primary occupation, race/ethnicity, and gender (Degree-granting institutions with less than 15 full-time employees and all nondegree-granting institutions): Fall 2006(revised May 2018)",S2006_CN,S2006_CN_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Fall Staff,Response status for all survey components(revised May 2018),FLAGS2006,FLAGS2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Employees by Assigned Position,"Employees by faculty status, primary function/occupational activity: Fall 2006(revised May 2018)",EAP2006,EAP2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Employees by Assigned Position,Response status for all survey components(revised May 2018),FLAGS2006,FLAGS2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Finance,Public institutions - GASB 34/35: Fiscal year 2006(revised May 2018),F0506_F1A,F0506_F1A_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Finance,Public institutions - GASB 34/35 (Component units using FASB): Fiscal year 2006(revised May 2018),F0506_F1A_F,F0506_F1A_F_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Finance,Public institutions - GASB 34/35 (Component units using GASB): Fiscal year 2006(revised May 2018),F0506_F1A_G,F0506_F1A_G_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Finance,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2006(revised May 2018),F0506_F2,F0506_F2_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Finance,Private for-profit institutions: Fiscal year 2006(revised May 2018),F0506_F3,F0506_F3_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Finance,Response status for all survey components(revised May 2018),FLAGS2006,FLAGS2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Student Financial Aid and Net Price,Student financial aid: Academic year 2005-06(revised May 2018),SFA0506,SFA0506_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Student Financial Aid and Net Price,Response status for all survey components(revised May 2018),FLAGS2006,FLAGS2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Graduation Rates,Graduation  rate data for cohort year 2000 (4-year) and cohort year 2003 (2-year) institutions(revised May 2018),GR2006,GR2006_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Graduation Rates,"Graduation rate data by sport for full-time, first-time degree/certificate-seeking students receiving athletically-related student aid for cohort year 2000 (4-year) and cohort year 2003 (2-year) institutions(revised May 2018)",GR2006ATH,GR2006ATH_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Graduation Rates,Number of full-time undergraduate degree/certificate-seeking students receiving athletically-related student aid in 2005-06 (4-year and 2-year institutions)(revised May 2018),GR2006_ATH_AID,GR2006_ATH_AID_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Graduation Rates,Graduation rate data for cohort year 2003 (less-than-2-year institutions)(revised May 2018),GR2006_L2,GR2006_L2_STATA,"SPSS, SAS, STATA",Dictionary
+2006,Graduation Rates,Response status for all survey components(revised May 2018),FLAGS2006,FLAGS2006_STATA,"SPSS, SAS, STATA",Dictionary

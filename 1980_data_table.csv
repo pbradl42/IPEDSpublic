@@ -1,0 +1,11 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1980,Institutional Characteristics,Institutional characteristics,IC1980,IC1980_STATA,"SPSS, SAS, STATA",Dictionary
+1980,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student",EF1980_A,EF1980_A_STATA,"SPSS, SAS, STATA",Dictionary
+1980,Fall Enrollment,"Major field of study, race/ethnicity, gender, attendance status, and level of student (major fields)",EF1980_ACP,EF1980_ACP_STATA,"SPSS, SAS, STATA",Dictionary
+1980,Completions,"Subbaccalaureate awards/degrees conferred by detailed program, award level and gender: 1979-80",C1980SUBBA_CIP,C1980SUBBA_CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1980,Completions,"Subbaccalaureate awards/degrees conferred by major discipline (2-digit code), award level and gender: 1979-80",C1980SUBBA_2DIG,C1980SUBBA_2DIG_STATA,"SPSS, SAS, STATA",Dictionary
+1980,Completions,"Bachelor degrees and above  conferred by detailed program, award level and gender: 1979-80",C1980_4ORMORE_CIP,C1980_4ORMORE_CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1980,Completions,"Bachelor degrees and above  conferred by major discipline (2 digit code), award level and gender: 1979-80",C1980_4ORMORE_2DIG,C1980_4ORMORE_2DIG_STATA,"SPSS, SAS, STATA",Dictionary
+1980,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL1980_A,SAL1980_A_STATA,"SPSS, SAS, STATA",Dictionary
+1980,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL1980_B,SAL1980_B_STATA,"SPSS, SAS, STATA",Dictionary
+1980,Finance,Finance,F1980,F1980_STATA,"SPSS, SAS, STATA",Dictionary

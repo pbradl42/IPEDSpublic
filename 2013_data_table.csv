@@ -1,0 +1,41 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+2013,Institutional Characteristics,Directory information,HD2013,HD2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Institutional Characteristics,"Educational offerings, admissions, organization,  services and athletic associations(revised August 2015)",IC2013,IC2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Institutional Characteristics,Student charges for academic year programs,IC2013_AY,IC2013_AY_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Institutional Characteristics,Student charges by program (vocational programs),IC2013_PY,IC2013_PY_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Institutional Characteristics,Response status for all survey components (revised January 2016),FLAGS2013,FLAGS2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,12-Month Enrollment,12-month unduplicated headcount: 2012-13 (revised August 2015),EFFY2013,EFFY2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,12-Month Enrollment,12-month instructional activity: 2012-13(revised August 2015),EFIA2013,EFIA2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,12-Month Enrollment,Response status for all survey components(revised January 2016),FLAGS2013,FLAGS2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Admissions and Test Scores,"Educational offerings, organization, applications, admissions, enrollees, test scores, services and athletic associations(revised August 2015)",IC2013,IC2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student: Fall 2013 (revised January 2016)",EF2013A,EF2013A_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Enrollment,"Age category, gender, attendance status, and level of student: Fall 2013 (revised January 2016)",EF2013B,EF2013B_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Enrollment,Residence and migration of first-time freshman: Fall 2013 (revised January 2016),EF2013C,EF2013C_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Enrollment,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2013 (revised January 2016)",EF2013D,EF2013D_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Enrollment,Distance education status and level of student: Fall 2013 (revised January 2016),EF2013A_DIST,EF2013A_DIST_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Enrollment,Response status for all survey components (revised January 2016),FLAGS2013,FLAGS2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender:July 1, 2012 to June 30, 2013(revised August 2015)",C2013_A,C2013_A_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Completions,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2012 to June 30, 2013(revised August 2015)",C2013_B,C2013_B_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Completions,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2012 to June 30, 2013(revised August 2015)",C2013_C,C2013_C_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Completions,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2012 to June 30, 2013(revised August 2015)",C2013DEP,C2013DEP_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Completions,Response status for all survey components(revised January 2016),FLAGS2013,FLAGS2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Instructional Staff/Salaries,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2013-14 ( January 2016)",SAL2013_IS,SAL2013_IS_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Instructional Staff/Salaries,"Number and salary outlays for full-time nonmedical noninstructional staff, by occupation: Academic year 2013-14 (revised  January 2016)",SAL2013_NIS,SAL2013_NIS_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Instructional Staff/Salaries,Response status for all survey components(revised  January 2016),FLAGS2013,FLAGS2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Staff,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2013(revised  January 2016)",S2013_OC,S2013_OC_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Staff,"Full-time instructional staff, by faculty and tenure status, and academic rank  (Degree-granting institutions): Fall 2013(revised  January 2016)",S2013_SIS,S2013_SIS_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Staff,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2013(revised  January 2016)",S2013_IS,S2013_IS_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Staff,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2013(revised  January 2016)",S2013_NH,S2013_NH_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Fall Staff,Response status for all survey components(revised  January 2016),FLAGS2013,FLAGS2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Employees by Assigned Position,"Number of staff by occupational category, faculty and tenure status:  Fall 2013(revised  January 2016)",EAP2013,EAP2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Employees by Assigned Position,Response status for all survey components(revised  January 2016),FLAGS2013,FLAGS2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Finance,Public institutions - GASB 34/35: Fiscal year 2013(revised January 2016),F1213_F1A,F1213_F1A_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Finance,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2013(revised January 2016),F1213_F2,F1213_F2_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Finance,Private for-profit institutions: Fiscal year 2013(revised January 2016),F1213_F3,F1213_F3_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Finance,Response status for all survey components(revised January 2016),FLAGS2013,FLAGS2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Student Financial Aid and Net Price,Student financial aid and net price: 2012-13 (revised January 2016),SFA1213,SFA1213_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Student Financial Aid and Net Price,Response status for all survey components (revised January 2016),FLAGS2013,FLAGS2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Graduation Rates,"Graduation rate data, 150% of normal time to complete - cohort year 2007 (4-year) and cohort year 2010 (2-year) institutions (revised January 2016)",GR2013,GR2013_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Graduation Rates,"Graduation rate data, 150% of normal time to complete - cohort year 2010 (less-than-2-year institutions) (revised January 2016)",GR2013_L2,GR2013_L2_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Graduation Rates,"Graduation rate data, 200% of normal time to complete - cohort year 2005  (4-year) and cohort year 2009 (less-than-4-year)  institutions (revised January 2016)",GR200_13,GR200_13_STATA,"SPSS, SAS, STATA",Dictionary
+2013,Graduation Rates,Response status for all survey components (revised January 2016),FLAGS2013,FLAGS2013_STATA,"SPSS, SAS, STATA",Dictionary
