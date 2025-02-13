@@ -1,0 +1,61 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+2023,Institutional Characteristics,Directory information(updated January 2025),HD2023,HD2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Institutional Characteristics,"Educational offerings, organization, services and athletic associations",IC2023,IC2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Institutional Characteristics,Student charges for academic year programs,IC2023_AY,IC2023_AY_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Institutional Characteristics,Student charges by program (vocational programs),IC2023_PY,IC2023_PY_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Institutional Characteristics,Branch campus locations listed on College Navigator,IC2023_CAMPUSES,IC2023_CAMPUSES_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Institutional Characteristics,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,12-Month Enrollment,"12-month unduplicated headcount by race/ethnicity, gender and level of student: 2022-23",EFFY2023,EFFY2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,12-Month Enrollment,12-month unduplicated headcount by distance education status and student level: 2022-23,EFFY2023_DIST,EFFY2023_DIST_STATA,"SPSS, SAS, STATA",Dictionary
+2023,12-Month Enrollment,12-month unduplicated headcount of dual enrolled students by race/ethnicity and gender: 2022-23,EFFY2023_HS,EFFY2023_HS_STATA,"SPSS, SAS, STATA",Dictionary
+2023,12-Month Enrollment,12-month instructional activity: 2022-23,EFIA2023,EFIA2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,12-Month Enrollment,Response status all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Admissions and Test Scores,"Admission considerations, applications, admissions, enrollees and test scores, fall 2023",ADM2023,ADM2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Admissions and Test Scores,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student: Fall 2023",EF2023A,EF2023A_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Enrollment,"Age category, gender, attendance status, and level of student: Fall 2023",EF2023B,EF2023B_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Enrollment,Residence and migration of first-time freshman: Fall 2023,EF2023C,EF2023C_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Enrollment,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2023",EF2023D,EF2023D_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Enrollment,Distance education status and level of student: Fall 2023,EF2023A_DIST,EF2023A_DIST_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Enrollment,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2022 to June 30, 2023",C2023_A,C2023_A_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Completions,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2022 to June 30, 2023",C2023_B,C2023_B_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Completions,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2022 to June 30, 2023",C2023_C,C2023_C_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Completions,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2022 to June 30, 2023",C2023DEP,C2023DEP_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Completions,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Instructional Staff/Salaries,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2023-24",SAL2023_IS,SAL2023_IS_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Instructional Staff/Salaries,"Number and salary outlays for full-time nonmedical noninstructional staff, by  gender, and academic rank:  Academic year 2023-24",SAL2023_NIS,SAL2023_NIS_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Instructional Staff/Salaries,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Staff,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2023",S2023_OC,S2023_OC_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Staff,"Full-time instructional staff, by faculty and tenure status, and academic rank  (Degree-granting institutions): Fall 2023",S2023_SIS,S2023_SIS_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Staff,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2023",S2023_IS,S2023_IS_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Staff,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2023",S2023_NH,S2023_NH_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Fall Staff,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Employees by Assigned Position,"Number of staff by occupational category, faculty and tenure status: Fall 2023",EAP2023,EAP2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Employees by Assigned Position,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Finance,Public institutions - GASB 34/35: Fiscal year 2023,F2223_F1A,F2223_F1A_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Finance,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2023,F2223_F2,F2223_F2_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Finance,Private for-profit institutions: Fiscal year 2023,F2223_F3,F2223_F3_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Finance,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Student Financial Aid and Net Price,Student financial aid and net price: 2022-23,SFA2223,SFA2223_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Student Financial Aid and Net Price,Military Servicemembers and Veteran's Benefits: 2022-23,SFAV2223,SFAV2223_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Student Financial Aid and Net Price,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Graduation Rates,"Graduation rate data, 150% of normal time to complete - cohort year 2017 (4-year) and cohort year 2020 (2-year) institutions",GR2023,GR2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Graduation Rates,"Graduation rate data, 150% of normal time to complete - cohort year 2020",GR2023_L2,GR2023_L2_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Graduation Rates,"Graduation rate data for Pell Grant and Direct Subsidized Loan recipients, 150% of normal time to complete  - cohort year 2017 (4-year) and cohort year 2020 (less-than-4-year)  institutions",GR2023_PELL_SSL,GR2023_PELL_SSL_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Graduation Rates,"Graduation rate data, 200% of normal time to complete - cohort year 2015 (4-year) and cohort year 2019 (less-than-4-year) institutions",GR200_23,GR200_23_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Graduation Rates,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Outcome Measures,"Award and enrollment data at four, six and eight years of entering degree/certificate-seeking undergraduate cohorts from 2015-16 at degree-granting institutions, by Pell status",OM2023,OM2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Outcome Measures,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Academic Libraries,Academic Libraries: Fiscal year 2023,AL2023,AL2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Academic Libraries,Response status for all survey components,FLAGS2023,FLAGS2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Frequently used/Derived variables,Total cost of attendance: Academic year 2023-24,DRVIC2023,DRVIC2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Frequently used/Derived variables,Selectivity and admissions yield: Fall 2023,DRVADM2023,DRVADM2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Frequently used/Derived variables,"Enrollments, retention rates and other selected enrollment indicators: Fall 2023",DRVEF2023,DRVEF2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Frequently used/Derived variables,"12-month unduplicated and full-time equivalent enrollment, and other selected 12-month enrollment indicators: July 1, 2022 to June 30, 2023",DRVEF122023,DRVEF122023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Frequently used/Derived variables,"Degrees/awards: July 1, 2022 to June 30, 2023",DRVC2023,DRVC2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Frequently used/Derived variables,"Graduation rates of full-time, first-time degree/certifcate-seeking undergraduate students: cohort years 2015 and 2017 (4-year institutions) cohort years 2019 and 2020 (less-than-4-year institutions",DRVGR2023,DRVGR2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Frequently used/Derived variables,Award and enrollment (Outcome Measures) rates of degree/certifcate-seeking undergraduate entering students: Cohort year 2015-16,DRVOM2023,DRVOM2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Frequently used/Derived variables,Revenues and expenditures: Fiscal year 2023,DRVF2023,DRVF2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Frequently used/Derived variables,Average salaries and full-time equivalent staff: Fall 2023,DRVHR2023,DRVHR2023_STATA,"SPSS, SAS, STATA",Dictionary
+2023,Frequently used/Derived variables,Academic library indicators: Fiscal year 2023,DRVAL2023,DRVAL2023_STATA,"SPSS, SAS, STATA",Dictionary

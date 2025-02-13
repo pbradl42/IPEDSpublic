@@ -1,0 +1,25 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1989,Institutional Characteristics,"Directory information, educationa offerings, organization and accreditation, admissions and services",IC1989_A,IC1989_A_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Institutional Characteristics,"Student charges, financial aid and other information",IC1989_B,IC1989_B_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Fall Enrollment,Response status,EF1989_IC,EF1989_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Fall Enrollment,"Gender, attendance status, and level of student",EF1989_A,EF1989_A_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Completions,Response status,C1989_IC,C1989_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level and gender: 1988-89",C1989_CIP,C1989_CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1988-89",C1989_RE,C1989_RE_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Instructional Staff/Salaries,Response status,SAL1989_IC,SAL1989_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL1989_A,SAL1989_A_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL1989_B,SAL1989_B_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Fall Staff,Response status,S1989_IC,S1989_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Fall Staff,Full and part-time staff by primary occupational activity and gender,S1989,S1989_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Response status,F1989_IC,F1989_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Current funds revenues by source,F1989_A,F1989_A_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Current funds expenditures by function,F1989_B,F1989_B_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Clarifying questions regarding total E and G expenditures and revenues,F1989_C,F1989_C_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Utility expenditures,F1989_D,F1989_D_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Scholarship and fellowship expenditures by source,F1989_E,F1989_E_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Expenditures for acquisitions of library materials,F1989_F,F1989_F_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Indebtedness on physical plant,F1989_G,F1989_G_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Details on endowment assets,F1989_H,F1989_H_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Selected fund balances,F1989_I,F1989_I_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Hospital revenues,F1989_J,F1989_J_STATA,"SPSS, SAS, STATA",Dictionary
+1989,Finance,Physical plant assets,F1989_K,F1989_K_STATA,"SPSS, SAS, STATA",Dictionary

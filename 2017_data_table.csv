@@ -1,0 +1,48 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+2017,Institutional Characteristics,Directory information,HD2017,HD2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Institutional Characteristics,"Educational offerings, organization, services and athletic associations (revised August 2019)",IC2017,IC2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Institutional Characteristics,Student charges for academic year programs,IC2017_AY,IC2017_AY_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Institutional Characteristics,Student charges by program (vocational programs),IC2017_PY,IC2017_PY_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Institutional Characteristics,Response status for all surveys components(revised August 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,12-Month Enrollment,12-month unduplicated headcount: 2016-17(revised August 2019),EFFY2017,EFFY2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,12-Month Enrollment,12-month instructional activity: 2016-17(revised August 2019),EFIA2017,EFIA2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,12-Month Enrollment,Response status for all surveys components(revised August 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Admissions and Test Scores,"Admission considerations, applications, admissions, enrollees and test scores, fall 2017(revised October 2019)",ADM2017,ADM2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Admissions and Test Scores,Response status for all survey components(revised October 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student: Fall 2017(revised October 2019)",EF2017A,EF2017A_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Enrollment,"Age category, gender, attendance status, and level of student: Fall 2017(revised October 2019)",EF2017B,EF2017B_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Enrollment,Residence and migration of first-time freshman: Fall 2017(revised October 2019),EF2017C,EF2017C_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Enrollment,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2017(revised October 2019)",EF2017D,EF2017D_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Enrollment,Distance education status and level of student: Fall 2017(revised October 2019),EF2017A_DIST,EF2017A_DIST_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Enrollment,Response status for all survey components(revised October 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2016 to June 30, 2017 (revised August 2019)",C2017_A,C2017_A_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Completions,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2016 to June 30, 2017(revised August 2019)",C2017_B,C2017_B_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Completions,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2016 to June 30, 2017(revised August 2019)",C2017_C,C2017_C_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Completions,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2016 to June 30, 2017(revised August 2019)",C2017DEP,C2017DEP_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Completions,Response status for all surveys components(revised August 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Instructional Staff/Salaries,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2017-18(revised October 2019)",SAL2017_IS,SAL2017_IS_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Instructional Staff/Salaries,"Number and salary outlays for full-time nonmedical noninstructional staff, by occupation: Academic year 2017-18 (revised October 2019)",SAL2017_NIS,SAL2017_NIS_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Instructional Staff/Salaries,Response status for all survey components(revised October 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Staff,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2017(revised October 2019)",S2017_OC,S2017_OC_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Staff,"Full-time instructional staff, by faculty and tenure status, and academic rank  (Degree-granting institutions): Fall 2017(revised October 2019)",S2017_SIS,S2017_SIS_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Staff,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2017(revised October 2019)",S2017_IS,S2017_IS_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Staff,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2017(revised October 2019)",S2017_NH,S2017_NH_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Fall Staff,Response status for all survey components(revised October 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Employees by Assigned Position,"Number of staff by occupational category, faculty and tenure status: Fall 2017(revised October 2019)",EAP2017,EAP2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Employees by Assigned Position,Response status for all survey components(revised October 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Finance,Public institutions - GASB 34/35: Fiscal year 2017(revised October 2019),F1617_F1A,F1617_F1A_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Finance,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2017(revised October 2019),F1617_F2,F1617_F2_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Finance,Private for-profit institutions: Fiscal year 2017(revised October 2019),F1617_F3,F1617_F3_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Finance,Response status for all survey components(revised October 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Student Financial Aid and Net Price,Student financial aid and net price: 2016-17(revised October 2019),SFA1617,SFA1617_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Student Financial Aid and Net Price,Military Servicemembers and Veteran's Benefits: 2016-17(revised October 2019),SFAV1617,SFAV1617_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Student Financial Aid and Net Price,Response status for all survey components(revised October 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Graduation Rates,"Graduation rate data, 150% of normal time to complete - cohort year 2011 (4-year) and cohort year 2014 (2-year) institutions(revised October 2019)",GR2017,GR2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Graduation Rates,"Graduation rate data, 150% of normal time to complete - cohort year 2014 (less-than-2-year institutions) (revised October 2019)",GR2017_L2,GR2017_L2_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Graduation Rates,"Graduation rate data for Pell Grant and Subsidized Stafford Loan recipients, 150% of normal time to complete  - cohort year 2011 (4-year) and cohort year 2014 (less-than-4-year)  institutions  (revised October 2019)",GR2017_PELL_SSL,GR2017_PELL_SSL_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Graduation Rates,"Graduation rate data, 200% of normal time to complete - cohort year 2009 (4-year) and cohort year 2013 (less-than-4-year)  institutions(revised October 2019)",GR200_17,GR200_17_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Graduation Rates,Response status for all survey components(revised October 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Outcome Measures,"Award and enrollment data at four, six and eight years of entering degree/certificate-seeking undergraduate cohorts from 2009-10 at degree-granting institutions, by Pell status (revised October 2019)",OM2017,OM2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Outcome Measures,Response status for all survey components(revised October 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Academic Libraries,Academic Libraries: Fiscal year 2017(revised October 2019),AL2017,AL2017_STATA,"SPSS, SAS, STATA",Dictionary
+2017,Academic Libraries,Response status for all survey components(revised October 2019),FLAGS2017,FLAGS2017_STATA,"SPSS, SAS, STATA",Dictionary

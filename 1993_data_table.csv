@@ -1,0 +1,27 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1993,Institutional Characteristics,"Directory information, educational offerings, organization and accreditation",IC1993_A,IC1993_A_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Institutional Characteristics,"Admissions, services, student charges, 12-month enrollment, financial aid and other information",IC1993_B,IC1993_B_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Fall Enrollment,Response status,EF1993_IC,EF1993_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student",EF1993_A,EF1993_A_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Fall Enrollment,"Age category, gender, attendance status, and level of student",EF1993_B,EF1993_B_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Fall Enrollment,Clarifying questions,EF1993_D,EF1993_D_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Completions,Response status,C1993_IC,C1993_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level and gender: 1992-93",C1993_CIP,C1993_CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1992-93",C1993_RE,C1993_RE_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,SAL1993_A,SAL1993_A_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Instructional Staff/Salaries,Fringe benefits of full-time instructional faculty,SAL1993_B,SAL1993_B_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Fall Staff,Response status and contracted/donated services (Part D),S1993_IC,S1993_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Fall Staff,"Full- and part-time staff by race/ethnicity, gender, and primary occupational activity (2- and 4-year institutions)",S1993_ABCEF,S1993_ABCEF_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Fall Staff,Full- and part-time staff by gender and primary occupational activity (less-than-2-year-institutions),S1993_CN,S1993_CN_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Response status,F1993_IC,F1993_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Current funds revenues by source,F1993_A,F1993_A_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Current funds expenditures by function,F1993_B,F1993_B_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Clarifying questions regarding total E and G expenditures and revenues,F1993_C,F1993_C_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Utitilty expenditures,F1993_D,F1993_D_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Scholarship and fellowship expenditures by source,F1993_E,F1993_E_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Expenditures for acquisitions of library materials,F1993_F,F1993_F_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Indebtedness on physical plant,F1993_G,F1993_G_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Details on endowment assets,F1993_H,F1993_H_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Selected fund balances,F1993_I,F1993_I_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Hospital revenues,F1993_J,F1993_J_STATA,"SPSS, SAS, STATA",Dictionary
+1993,Finance,Physical plant assets,F1993_K,F1993_K_STATA,"SPSS, SAS, STATA",Dictionary

@@ -1,0 +1,32 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1991,Institutional Characteristics,"Educational offerings, organization and accreditation",ic1991_ab,ic1991_ab_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Institutional Characteristics,Admissions and selected services,ic1991_c,ic1991_c_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Institutional Characteristics,Student charges,ic1991_d,ic1991_d_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Institutional Characteristics,Corrected fall enrollment for 1990,ic1991_e,ic1991_e_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Institutional Characteristics,Financial aid and other information,ic1991_f,ic1991_f_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Institutional Characteristics,"Directory information, response status and derived variables",IC1991_hdr,IC1991_hdr_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Institutional Characteristics,"Other levels of offerings, summer session indicators",ic1991_other,ic1991_other_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Fall Enrollment,Fall enrollment: Response status information,ef1991_hdr,ef1991_hdr_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Fall Enrollment,"Fall enrollments by race-ethnicity, gender, attendance status, and level of student",ef1991_a,ef1991_a_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Fall Enrollment,"Fall enrollments by age category, gender, attendance status, and level of student",ef1991_b,ef1991_b_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Completions,Response status,C1991_HDR,C1991_HDR_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level and gender: 1990-91",c1991_cip,c1991_cip_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1990-91",c1991_re,c1991_re_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Instructional Staff/Salaries,Salaries and tenure of full-time instructional faculty,sal1991_a,sal1991_a_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Instructional Staff/Salaries,Fringe benefits of full-time intructional faculty,sal1991_b,sal1991_b_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Instructional Staff/Salaries,Response status,sal1991_hdr,sal1991_hdr_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Fall Staff,Full- and part-time employees by gender and primary occupational activity,s1991_a,s1991_a_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Fall Staff,Contracted or donated services,s1991_b,s1991_b_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Fall Staff,Response status,s1991_hdr,s1991_hdr_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Response status,F1991_hdr,F1991_hdr_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Current funds revenues by source,F1991_A,F1991_A_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Current funds expenditures by function,F1991_B,F1991_B_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Clarifying questions regarding total educational and general expenditures and revenues,F1991_C,F1991_C_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Utility expenditures,F1991_D,F1991_D_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Scholarship and fellowship expenditures by source,F1991_E,F1991_E_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Expenditures for acquisitions of library materials,F1991_F,F1991_F_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Indebtedness on physical plant,F1991_G,F1991_G_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Details on endowment assets,F1991_H,F1991_H_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Selected fund balances,F1991_I,F1991_I_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Hospital revenues,F1991_J,F1991_J_STATA,"SPSS, SAS, STATA",Dictionary
+1991,Finance,Physical plant assets,F1991_K,F1991_K_STATA,"SPSS, SAS, STATA",Dictionary

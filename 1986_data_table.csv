@@ -1,0 +1,12 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+1986,Institutional Characteristics,"Directory information, educational offerings, organization and accreditation, admissions, services, and student charges",IC1986_A,IC1986_A_STATA,"SPSS, SAS, STATA",Dictionary
+1986,Institutional Characteristics,Financial aid and other information,IC1986_B,IC1986_B_STATA,"SPSS, SAS, STATA",Dictionary
+1986,Fall Enrollment,Response status - Fall enrollment,EF1986_IC,EF1986_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1986,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student",EF1986_A,EF1986_A_STATA,"SPSS, SAS, STATA",Dictionary
+1986,Fall Enrollment,"Major field of study, race/ethnicity, gender, attendance status, and level of student",EF1986_ACP,EF1986_ACP_STATA,"SPSS, SAS, STATA",Dictionary
+1986,Fall Enrollment,Clarifying questions,EF1986_D,EF1986_D_STATA,"SPSS, SAS, STATA",Dictionary
+1986,Fall Enrollment,Response status information - Residence and migration,RES1986_IC,RES1986_IC_STATA,"SPSS, SAS, STATA",Dictionary
+1986,Fall Enrollment,Residence and migration of first-time freshmen,EF1986_C,EF1986_C_STATA,"SPSS, SAS, STATA",Dictionary
+1986,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level and gender: 1985-86",C1986_CIP,C1986_CIP_STATA,"SPSS, SAS, STATA",Dictionary
+1986,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level and gender: 1985-86",C1986_A2dig,C1986_A2dig_STATA,"SPSS, SAS, STATA",Dictionary
+1986,Finance,Finance,F1986,F1986_STATA,"SPSS, SAS, STATA",Dictionary

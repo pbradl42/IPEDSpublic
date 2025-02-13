@@ -1,0 +1,21 @@
+Year,Survey,Title,Data File,Stata Data File,Programs,Dictionary
+2000,Institutional Characteristics,"Directory information, response status for all surveys and derived variables",FA2000HD,FA2000HD_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Institutional Characteristics,"Educational offerings,organization, accreditation, admissions, services and athletic associations",IC2000,IC2000_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Institutional Characteristics,"Accrediting agencies recognized by the Secretary, U.S. Department of Education",IC2000_ACTOT,IC2000_ACTOT_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Institutional Characteristics,Student charges for academic year programs,IC2000_AY,IC2000_AY_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Institutional Characteristics,Student charges by program (vocational programs),IC2000_PY,IC2000_PY_STATA,"SPSS, SAS, STATA",Dictionary
+2000,12-Month Enrollment,12-month enrollment and instructional activity: 1999-2000,EF2000D,EF2000D_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Fall Enrollment,"Race/ethnicity, gender, attendance status, and level of student: Fall 2000",EF2000A,EF2000A_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Fall Enrollment,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall 2000",EF2000CP,EF2000CP_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Fall Enrollment,"Age category, gender and attendance status of undergraduate students: Fall 2000",EF2000B,EF2000B_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Fall Enrollment,Residence and migration of first-time freshman: Fall 2000,EF2000C,EF2000C_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Completions,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: 1999-2000",C2000_A,C2000_A_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Completions,"Awards/degrees conferred by major discipline (2-digit CIP code), award level, race/ethnicity, and gender: 1999-2000",C2000_A2DIG,C2000_A2DIG_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Finance,Public institutions - F1,F9900_F1,F9900_F1_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Finance,Private not-for-profit institutions - F2,F9900F2,F9900F2_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Finance,Private for-profit institutions - F3,F9900F3,F9900F3_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Student Financial Aid and Net Price,Student financial aid: Academic year 1999-2000,SFA9900S,SFA9900S_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Graduation Rates,Graduation rate data  for cohort year 1994 (4-year) and cohort year 1997 (2-year and less-than-2-year) institutions,GR2000,GR2000_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Graduation Rates,Graduation rate data for cohort year 1997 (less-than-2-year institutions),GR2000_L2,GR2000_L2_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Graduation Rates,"Graduation rate data  by sport for full-time, first-time degree/certificate-seeking students receiving athletically-related student aid for cohort year 1994 (4-year) and cohort year 1997 (2-year)  institutions",GR2000ATH,GR2000ATH_STATA,"SPSS, SAS, STATA",Dictionary
+2000,Graduation Rates,Number of full-time undergraduate degree/certificate-seeking students receiving athletically-related student aid in 1999-00 (4-year and 2-year institutions),GR2000_ATH_AID,GR2000_ATH_AID_STATA,"SPSS, SAS, STATA",Dictionary
