@@ -1,5 +1,5 @@
 .main-col {
-    width: 900px;
+    width: 1000px;
     margin: auto;
 }
 
@@ -9,6 +9,7 @@
     max-width: 600px;
     margin: auto;
     margin-top: 20px;
+    height: 150px;
 }
 
 .header h1 {
@@ -44,4 +45,37 @@
 .title {
     width: fit-content;
     margin: auto;
+}
+
+.directory-table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.directory-table table {
+    text-align: left;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    border-collapse: collapse;
+}
+
+tr {
+    border: 1px solid lightgrey;
+}
+
+tr:hover {
+    background-color: lightblue !important;
+}
+
+td, th {
+    padding: 10px;
+}
+
+th {
+    padding-bottom: 5px;
+    background-color: white !important;
+}
+
+th {
+    text-align: left;
 }
