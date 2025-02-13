@@ -1,5 +1,5 @@
 ---
-title: "1985"
+title: "2023"
 format: html
 editor: visual
 ---
@@ -7,8 +7,6 @@ editor: visual
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(dplyr)
 library(tidyverse)
-library(alleghenyir)
-library(alleghenystyle)
 library(knitr)
 library(here)
 

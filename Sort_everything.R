@@ -1,7 +1,6 @@
 library(knitr)
 library(tidyverse)
 library(kableExtra)
-library(alleghenyir)
 library(here)
 
 downloads <- "Downloads"
