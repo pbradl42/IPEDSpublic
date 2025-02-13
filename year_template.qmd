@@ -2,8 +2,6 @@
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(dplyr)
 library(tidyverse)
-library(alleghenyir)
-library(alleghenystyle)
 library(knitr)
 library(here)
 
