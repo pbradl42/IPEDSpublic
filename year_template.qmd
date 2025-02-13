@@ -9,7 +9,7 @@ library(here)
 
 knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE)
 
-readRDS(paste(here(), "../../year_file.RDS", sep="/")) -> file_df
+readRDS(paste(here(), "year_file.RDS", sep="/")) -> file_df
 ```
 
 ## `r unique(file_df$year)`
