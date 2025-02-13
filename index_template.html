@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<title>IPEDS-Public archive</title>
+<link rel="stylesheet" href="site/styles/homepage.css">
+<script src="site/jquery/nice-select/js/jquery.js"></script> 
+<script src="site/jquery/nice-select/js/jquery.nice-select.min.js"></script>
+<link rel="stylesheet" href="site/jquery/nice-select/css/nice-select.css">
+<script src="site/scripts/stylize.js"></script>
+</head>
+
+<body>
+  <div class="main-col">
+    <div class="header">
+      <h1 class="title">IPEDS Open Source Archive</h1>
+      <p>Preserving and maintaining the Integrated Post Secondary Education Dataset distributed by the U.S. Department of Education.</p>
+      <div class="selector-gadget">
+        <select class="year-select control-select" name="year" id="year-select"><option value="All Surveys">All Surveys</option></select>
+        <select class="year-select control-select" name="year" id="year-select">{{YEAR_OPTIONS}}</select>
+      </div>
+    </div>
+    {{DIRECTORY}}
+  </div>
+</body>
+</html>
