@@ -64,13 +64,6 @@ tr {
     box-sizing: border-box;
 }
 
-tr:hover {
-    background-color: lightblue !important;
-    /*border-left: 3px solid black;*/
-    /*border: 2px solid black;
-    z-index: 99;*/
-}
-
 td, th {
     padding: 10px;
 }
@@ -82,4 +75,8 @@ th {
 
 th {
     text-align: left;
+}
+
+td:has(a) {
+    text-align: center;
 }

@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $('select').niceSelect();
 
-    $.get( "https://ipeds-api.onrender.com/directory?years=2023&surveys=All Surveys&format=html", function( data ) {
+    $.get( "https://ipeds-api.onrender.com/directory?startYear=2023&endYear=2023&surveys=All Surveys&format=html", function( data ) {
       $( ".directory-table" ).html( data );
     });
 
@@ -11,10 +11,7 @@ $(document).ready(function() {
         var start = $('.start-year').children('.current').text()
         var end = $('.end-year').children('.current').text()
 
-        var request = "https://ipeds-api.onrender.com/directory?years=" + start.toString() + "&surveys=" + survey.toString() + "format=html"
-        console.log(request)
-
-        $.get( "https://ipeds-api.onrender.com/directory?years=" + start.toString() + "&surveys=" + survey.toString() + "&format=html", function( data ) {
+        $.get( "https://ipeds-api.onrender.com/directory?startYear=" + start.toString() + "&endYear=" + end.toString() + "&surveys=" + survey.toString() + "&format=html", function( data ) {
           $( ".directory-table" ).html( data );
         });
       }, 1);
