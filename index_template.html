@@ -16,12 +16,13 @@
       <h1 class="title">IPEDS Open Source Archive</h1>
       <p>Preserving and maintaining the Integrated Post Secondary Education Dataset distributed by the U.S. Department of Education.</p>
       <div class="selector-gadget">
-        <select class="year-select control-select" name="year" id="year-select"><option value="All Surveys">All Surveys</option></select>
-        <select class="year-select control-select" name="year" id="year-select">{{YEAR_OPTIONS}}</select>
+        <select class="survey-select control-select" name="survey">{{SURVEY_OPTIONS}}</select>
+        <select class="start-year control-select" name="start-year">{{YEAR_OPTIONS}}</select>
+        <select class="end-year control-select" name="end-year">{{YEAR_OPTIONS}}</select>
       </div>
     </div>
     <div class="directory-table">
-      {{DIRECTORY}}
+      
     </div>
   </div>
 </body>

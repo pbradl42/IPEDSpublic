@@ -61,10 +61,14 @@
 
 tr {
     border: 1px solid lightgrey;
+    box-sizing: border-box;
 }
 
 tr:hover {
     background-color: lightblue !important;
+    /*border-left: 3px solid black;*/
+    /*border: 2px solid black;
+    z-index: 99;*/
 }
 
 td, th {
