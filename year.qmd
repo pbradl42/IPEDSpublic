@@ -7,14 +7,12 @@ editor: visual
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(dplyr)
 library(tidyverse)
-library(alleghenyir)
-library(alleghenystyle)
 library(knitr)
 library(here)
 
 knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE)
 
-readRDS(paste(here(), "../../year_file.RDS", sep="/")) -> file_df
+readRDS(paste(here(), "year_file.RDS", sep="/")) -> file_df
 ```
 
 ## `r unique(file_df$year)`
@@ -28,7 +26,6 @@ for_html_display <- file_df %>%
   select(!url)
 ```
 
-````{=html}
 <table>
 <thead><tr><td> Survey </td><td> Title </td><td> Data file </td><td> Stata File </td><td> Programs </td><td> Dictionary </td><td></thead>
 <tbody>
@@ -52,4 +49,4 @@ for(row in c(1:nrow(for_html_display))) {
 ```
 </tbody>
 </table>
-````
+
