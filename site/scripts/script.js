@@ -2,11 +2,18 @@ function updateTable() {
     var survey = $('.survey-select').children('.current').text()
     var start = $('.start-year').children('.current').text()
     var end = $('.end-year').children('.current').text()
+    var returnType = $('.return-format').children('.current').text()
+    if (returnType == 'Stata') {
+      returnType = 'STATA_DATA,STATA'
+    }
 
     var query = $('.search').val()
     query = query.replace(' ',',')
 
-    $.get("https://ipeds-api.onrender.com/directory?startYear=" + start.toString() + "&endYear=" + end.toString() + "&surveys=" + survey.toString() + "&q=" + query + "&format=html", function( data ) {
+    var request = "https://ipeds-api.onrender.com/directory?startYear=" + start.toString() + "&endYear=" + end.toString() + "&surveys=" + survey.toString() + "&q=" + query + "&download=" + returnType + "&format=html"
+    console.log(request)
+
+    $.get(request, function( data ) {
       $( ".directory-table" ).html( data );
     });
 }
@@ -15,9 +22,7 @@ function updateTable() {
 $(document).ready(function() {
     $('select').niceSelect();
 
-    $.get( "https://ipeds-api.onrender.com/directory?startYear=2023&endYear=2023&surveys=All Surveys&format=html", function( data ) {
-      $( ".directory-table" ).html( data );
-    });
+    updateTable()
 
     $('.option').on('click', function() {
       setTimeout(function() {
