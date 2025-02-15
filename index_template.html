@@ -14,12 +14,25 @@
 <body>
   <div class="main-col">
     <div class="header">
-      <h1 class="title">IPEDS Open Source Archive</h1>
-      <p>Preserving and maintaining the Integrated Post Secondary Education Dataset distributed by the U.S. Department of Education.</p>
+      <div class="header-text">
+        <h1 class="title">IPEDS Open Source Archive</h1>
+        <p>Preserving and maintaining the Integrated Post Secondary Education Dataset distributed by the U.S. Department of Education.</p>
+      </div>
       <div class="selector-gadget">
         <select class="survey-select control-select" name="survey">{{SURVEY_OPTIONS}}</select>
         <select class="start-year control-select" name="start-year">{{YEAR_OPTIONS}}</select>
         <select class="end-year control-select" name="end-year">{{YEAR_OPTIONS}}</select>
+        <select class="return-format control-select" name="return-format">
+          <option value="CSV">CSV</option>
+          <option value="Stata">Stata</option>
+          <option value="SPSS">SPSS</option>
+          <option value="SAS">SAS</option>
+        </select>
+        <div class="input-group">
+          <input type="search" class="form-control rounded search" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+          <button type="button" class="btn btn-outline-primary search-button" data-mdb-ripple-init id="search-button"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </div>
+
       </div>
     </div>
     <div class="directory-table">
