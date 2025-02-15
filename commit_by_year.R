@@ -12,11 +12,12 @@ datadir <- "raw_data"
 
 years <- c(1980, 1984:2023)
 
-years <- c(1984:2023)
+years <- c(2004:2023)
 for(year in years) {
   add_cmd <- paste0("git add ", paste(here(), datadir, year, "*.zip", sep="/"))
+  add_cmd <- paste0("git add ", paste(here(), datadir, year, "*.xlsx", sep="/"))
   system(add_cmd)
-  commit <- paste0("git commit -m \"Fixed SPSS, SAS and STATA files for ", year, "\"")
+  commit <- paste0("git commit -m \"Updating AccessDBs for ", year, "\"")
   system(commit)
   push <- "git push"
   system(push)
@@ -26,6 +27,8 @@ access_years <- c(2004:2023)
 end_year <- as.numeric(substr(access_years, 2,4)) + 1
 end_year <- sapply(end_year, function(x) ifelse(nchar(x)==1, paste0("0", x), x))
 
+
+## Access database
 filenames <- data.frame("year"=access_years, "end_year"=end_year)
 filenames <- filenames %>%
   mutate(db_dates = paste(access_years, end_year, sep="-")) %>%
