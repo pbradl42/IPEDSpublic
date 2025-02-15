@@ -6,7 +6,7 @@ read_ipeds_table <- function(myyear) {
   if(!is.na(thepage)) {
     thetable <- thepage %>%
       html_table()
-    write_csv(thetable, file=paste(datadir, "/", myyear, "_data_table.csv", sep=""))
+    write_csv(thetable, file=paste(here(), "/directory/", myyear, "_data_table.csv", sep=""))
     thelist <- thepage %>%  
       html_nodes("a")
    # junk <- c("Stata", "SPS", "SAS")
@@ -32,12 +32,18 @@ download_zip_file <- function(thenode, theyear, force_reload=FALSE) {
   } else if (myname %in% c("SPSS", "SAS", "STATA")) {
     myname <- gsub("data/", "", myhref)
     myname <- gsub(".zip", "", myname)
-    
+  } else if (grepl("Data_Stata", myhref)) {
+    myname <- gsub("data/", "", myhref)
+    myname <- gsub(".zip", "", myname)
   }
   myurl <- paste("https://nces.ed.gov/ipeds/datacenter/", myhref, sep="")
-  destfile <- paste(datadir, "/", theyear, "/", myname, ".zip", sep="")
+  destfile <- paste(here(), "/", datadir, "/", theyear, "/", myname, ".zip", sep="")
+  message("checking for data file ", destfile)
   if(!file.exists(destfile) | force_reload==TRUE) {
+    message("    not found, downloading ", destfile)
     download.file(myurl, destfile)
+  } else {
+   # message("found, not downloading")
   }
   return(paste(myname, ".zip", sep=""))
 }
