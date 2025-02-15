@@ -1,3 +1,17 @@
+function updateTable() {
+    var survey = $('.survey-select').children('.current').text()
+    var start = $('.start-year').children('.current').text()
+    var end = $('.end-year').children('.current').text()
+
+    var query = $('.search').val()
+    query = query.replace(' ',',')
+
+    $.get("https://ipeds-api.onrender.com/directory?startYear=" + start.toString() + "&endYear=" + end.toString() + "&surveys=" + survey.toString() + "&q=" + query + "&format=html", function( data ) {
+      $( ".directory-table" ).html( data );
+    });
+}
+
+
 $(document).ready(function() {
     $('select').niceSelect();
 
@@ -7,14 +21,16 @@ $(document).ready(function() {
 
     $('.option').on('click', function() {
       setTimeout(function() {
-        var survey = $('.survey-select').children('.current').text()
-        var start = $('.start-year').children('.current').text()
-        var end = $('.end-year').children('.current').text()
-
-        $.get( "https://ipeds-api.onrender.com/directory?startYear=" + start.toString() + "&endYear=" + end.toString() + "&surveys=" + survey.toString() + "&format=html", function( data ) {
-          $( ".directory-table" ).html( data );
-        });
+        updateTable()
       }, 1);
 
     })
+
+    $('#search-button').on('click', function() {
+      updateTable()
+    })
+
+
+
 });
+
