@@ -28,7 +28,7 @@ We strive to mirror the taxonomies contained [Use the data](https://nces.ed.gov/
 
 ## Contribute
 
-If you want to contribute to the project, please get in touch - we could use the help!
+If you want to contribute to the project, pull a branch and start working! If you want to take one of the projects listed as 'On the agenda', get in touch so we can assign it to you.
 
 ## Acknowledgements
 
