@@ -30,7 +30,15 @@ $(document).ready(function() {
       updateTable()
     })
 
+    $('.search').bind('enterKey', function(e) {
+      updateTable()
+    })
 
+    $('.search').keyup(function(e){
+      if(e.keyCode == 13) {
+        $(this).trigger("enterKey");
+      }
+    });
 
 });
 
