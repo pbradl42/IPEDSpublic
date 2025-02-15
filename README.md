@@ -20,7 +20,7 @@ We strive to mirror the taxonomies contained [Use the data](https://nces.ed.gov/
 
 * Data Trends
 * Look Up an Institution
-* Statustical Tables
+* Statistical Tables
 * Data Feedback Report
 * Summary Tables
 * Custom Data Files
