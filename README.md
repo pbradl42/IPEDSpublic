@@ -12,16 +12,18 @@ We strive to mirror the taxonomies contained [Use the data](https://nces.ed.gov/
 
 * [Complete Data Files](https://pbradl42.github.io/IPEDSpublic/)
 * Access Database
+* Build complete var table - xlsx files (>2003)
 
 ### In progress
 
 * REST API
+* Build complete var table - html files (<2003)
 
 ### On the agenda
 
 * Data Trends
 * Look Up an Institution
-* Statistical Tables
+* Statistical Tables 
 * Data Feedback Report
 * Summary Tables
 * Custom Data Files
