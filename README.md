@@ -4,7 +4,7 @@ IPEDSpublic is a mirror of the National Center for Educational Statistics (NCES)
 
 New files will be added as (and if) they become available.
 
-We strive to mirror the taxonomies contained [Use the data](https://nces.ed.gov/ipeds/use-the-data) page, while improving the interface for ease of use.
+We strive to mirror the taxonomies contained on the [Use the data](https://nces.ed.gov/ipeds/use-the-data) page, while improving the interface for ease of use.
 
 ## Status of projects
 
@@ -18,6 +18,7 @@ We strive to mirror the taxonomies contained [Use the data](https://nces.ed.gov/
 
 * REST API
 * Build complete var table - html files (<2003)
+* UI for AccessDB files
 
 ### On the agenda
 
