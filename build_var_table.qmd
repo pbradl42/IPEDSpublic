@@ -1,0 +1,173 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(httr)
+library(jsonlite)
+library(tidyverse)
+library(stringr)
+library(data.table)
+library(knitr)
+library(kableExtra)
+library(googlesheets4)
+library(googledrive)
+library(janitor) # Pretty totals on tables
+library(lubridate)
+library(here)
+library(readxl)
+
+options(dplyr.summarise.inform = FALSE)
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+
+source("scrape_ipeds.R")
+datadir <- "raw_data"
+
+
+years <- gsub("raw_data/", "", list.dirs(datadir))
+years <- years[years != "raw_data"]
+years <- years[as.numeric(years) >= 2002]
+years_in_html <- years[as.numeric(years <= 2004)]
+
+scratch_dir <- "scratchdir"
+
+list_files_ipeds <- function(year) {
+  list.files(paste(datadir, year, sep="/"), pattern="*.zip") -> all_files
+  all_files <- data.frame("year"=year, "file"=all_files)
+  return(all_files)
+}
+lapply(years, list_files_ipeds) -> files_to_process_by_year
+names(files_to_process_by_year) <- years
+```
+
+
+```{r metadata, echo=FALSE, message=FALSE, warning=FALSE, cache=TRUE}
+open_dict_files <- function(files_to_process) {
+  unique(files_to_process$year) -> year
+  files_to_process$file -> the_files
+  the_files[grepl("Dict.zip$", the_files)] -> dictfiles
+  dictfiles <- paste(year, dictfiles, sep="/")
+  sapply(dictfiles, open_zip_file, destdir=scratch_dir) -> dictfiles_open
+  dictfiles_open <- data.frame("year"=year, "dictfiles"=dictfiles_open)
+  return(dictfiles_open) 
+}
+
+lapply(files_to_process_by_year, open_dict_files) -> dictfile_list
+```
+
+```{r}
+read_meta_data_by_year <- function(dictfile_df) {
+  unique(dictfile_df$year) -> year
+  dictfiles_open <- dictfile_df$dictfiles
+  lapply(dictfiles_open, read_meta_data) -> metadata_list
+  return(metadata_list)
+}
+
+lapply(dictfile_list, read_meta_data_by_year) -> metadata_list
+```
+```{r}
+build_var_tables <- function(i, metadata_list) {
+  year <- years[[i]]
+  varlist <- list()
+  imputationvalues <- list()
+  frequencies <- list()
+  for (listitem in metadata_list[[i]]) {
+    varlist <- append(varlist, listitem[1])
+    frequencies <- append(frequencies, listitem[2])
+    imputationvalues <- append(imputationvalues, listitem[3])
+  }
+  rbindlist(varlist[!is.na(varlist)], use.names=TRUE, fill=TRUE) -> varlistdf
+  varlistdf$year <- as.character(year)
+  
+  if(length(frequencies[!is.na(frequencies)])>0) {
+    frequenciesdf <- rbindlist(frequencies[!is.na(frequencies)], use.names=TRUE, fill=TRUE) %>%
+      mutate(varnumber = as.numeric(varnumber)) %>%
+      mutate(year = as.character(year))
+  } else {
+    warning("DICT file does not have frequency tab. Skipping.")
+    frequenciesdf <- NA
+  }
+  rbindlist(imputationvalues[!is.na(imputationvalues)], use.names=TRUE, fill=TRUE) -> imputationvaluesdf
+  
+  imputationvaluesdf$year <- as.character(year)
+  return(list(varlistdf, frequenciesdf, imputationvaluesdf))
+}
+```
+
+```{r}
+lapply(c(1:length(metadata_list)), build_var_tables, metadata_list) -> tables_by_year
+big_var_df <- list()
+big_freq_df <- list()
+big_imputation_df <- list()
+for(i in c(1:length(tables_by_year))) {
+  big_var_df <- append(big_var_df, tables_by_year[[i]][1])
+  big_freq_df <- append(big_freq_df, tables_by_year[[i]][2])
+  big_imputation_df <- append(big_imputation_df, tables_by_year[[i]][3])
+}
+```
+
+```{r}
+sapply(big_var_df, function(x) ncol(x)) -> var_df_list
+big_var_df[which(var_df_list > 2)] -> big_var_df
+
+big_var_df <- rbindlist(big_var_df, use.names=TRUE, fill=TRUE) %>%
+  mutate(year=as.character(year))
+
+sapply(big_freq_df, function(x) ncol(x)) -> freq_df_list
+big_freq_df <- rbindlist(big_freq_df, use.names=TRUE)
+
+sapply(big_imputation_df, function(x) ncol(x)) -> imp_df_list
+big_imputation_df <- big_imputation_df[which(imp_df_list > 1)]
+big_imputation_df <- rbindlist(big_imputation_df, use.names=TRUE)
+```
+
+
+Now check if all the frequency variables have a match in varlist
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+if(exists("big_freq_df") && nrow(big_freq_df) > 0) {
+  unique(big_freq_df$varname) -> freq_vars
+  test_freq_vars <- freq_vars[!freq_vars %in% big_var_df$varname]
+}
+```
+
+There are `r length(test_freq_vars)` without a match in varlist!
+
+```{r echo=FALSE}
+if(exists("test_freq_vars") && length(test_freq_vars) > 0) {
+  test_freq_vars
+}
+```
+
+These are probably just errors - but I will look into the California one.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+data_types <- data.frame("DataType"=c("N", "A"), "DataTypeReadable"=c("Numeric", "Alphanumeric"))
+format_types <- data.frame("format"=c("Cont", "Disc", "Alpha"), "formatReadable"=c("Continuous", "Categorical", "Alphanumeric"))
+## Get ready to join
+# replace DataType (see 'introduction' sheet)
+big_var_df <- big_var_df %>%
+  left_join(data_types, by="DataType") %>%
+  select(!DataType) %>%
+  rename("DataType"="DataTypeReadable")
+big_var_df <- big_var_df %>%
+  left_join(format_types, by="format") %>%
+  select(!format) %>%
+  rename("format"="formatReadable")
+
+if(exists("frequenciesdf") && nrow(frequenciesdf) > 0) {
+  thevars <- big_freq_df %>%
+    select(!c(frequency, percent)) %>%
+    right_join(big_var_df, by=c("varnumber", "varname", "file", "year")) 
+} else {
+  thevars <- big_var_df
+}
+```
+
+```{r}
+write_csv(thevars, file="huge_var_df.csv")
+write_csv(big_freq_df, file="huge_freq_df.csv")
+write_csv(big_imputation_df, file="huge_imputation_df.csv")
+```
