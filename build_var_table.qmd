@@ -115,6 +115,7 @@ big_var_df[which(var_df_list > 2)] -> big_var_df
 big_var_df <- rbindlist(big_var_df, use.names=TRUE, fill=TRUE) %>%
   mutate(year=as.character(year))
 
+big_freq_df <- big_freq_df[!is.na(big_freq_df)]
 sapply(big_freq_df, function(x) ncol(x)) -> freq_df_list
 big_freq_df <- rbindlist(big_freq_df, use.names=TRUE)
 

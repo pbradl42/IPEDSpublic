@@ -11,10 +11,11 @@ We strive to mirror the taxonomies contained [Use the data](https://nces.ed.gov/
 ### Completed:
 
 * [Complete Data Files](https://pbradl42.github.io/IPEDSpublic/)
+* Access Database
 
 ### In progress
 
-* Access Database
+* REST API
 
 ### On the agenda
 
@@ -29,6 +30,26 @@ We strive to mirror the taxonomies contained [Use the data](https://nces.ed.gov/
 ## Contribute
 
 If you want to contribute to the project, pull a branch and start working! If you want to take one of the projects listed as 'On the agenda', get in touch so we can assign it to you.
+
+## REST API documentation
+
+Implemented endpoints will be marked with *.
+
+### Querying files
+
+* data_by_file/:file (i.e. just return the csv - D's endpoints already completed)
+
+### Querying variables
+
+* search_varname_by_string/:string
+* varname/:varname
+* files_by_varname/:varname
+* years_by_varname/:varname
+* frequencies_varname/:varname
+* imputation_varname/:varname
+* vars_by_file/:file
+* vars_by_year/:year
+* data_by_varname/:varname (optional: UNITID, years)
 
 ## Acknowledgements
 
