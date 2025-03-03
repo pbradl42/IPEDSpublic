@@ -7,3 +7,5 @@ raw_data/.DS_Store
 *.Rproj
 IPEDSpublic.Rproj
 scratchdir
+build_var_table_cache
+year_files
